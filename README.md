@@ -35,11 +35,11 @@ cd Project
 
 2. Install required modules 
 
-3. Run the .py file
+3. Run the hr_analytics.py file
 
 4. Open the Dashboard
 - Launch Power BI Desktop
-- Open HRAttritionDashboard.pbix
+- Open project.pbix
 - Refresh to load the latest attrition_results.csv
 
 
