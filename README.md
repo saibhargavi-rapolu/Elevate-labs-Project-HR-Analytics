@@ -13,12 +13,12 @@ Objectives
 - Visualize insights in an interactive Power BI dashboard
 - Provide actionable recommendations for HR decision-making
 
-- Tools & Technologies
+Tools & Technologies
 - Python: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, SHAP
 - Power BI: DAX, interactive visuals, Smart Narrative
 - GitHub for version control and project sharing
 
-- Steps Taken
+Steps Taken
 1. Data Cleaning: Removed irrelevant columns, encoded categorical variables, created Age Groups
 2. EDA: Visualized attrition trends by department, overtime, salary, and age
 3. Modeling: Logistic Regression for interpretability
@@ -30,8 +30,8 @@ Objectives
 Quick Launch
 
 1. Clone the Repository
-git clone .gitfile
-cd Project
+git clone https://github.com/saibhargavi-rapolu/Elevate-labs-Project-HR-Analytics.git
+cd <foldername>
 
 2. Install required modules 
 
